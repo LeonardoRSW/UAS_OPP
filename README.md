@@ -22,3 +22,6 @@ ini adalah class diagramnya
 
 dan ini adalah hasil Programnya :
 ![Capt2ure](https://user-images.githubusercontent.com/115912110/212457204-e456c84e-4b52-4706-a6ea-cd17e18dbdd1.PNG)
+
+Link youtube : 
+https://youtu.be/o04MNXgm6Dc
